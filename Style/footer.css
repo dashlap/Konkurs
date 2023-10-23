@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(26, 26, 26);
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.footer p {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: rgb(102, 102, 102);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
